@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<WebEditorProject>
+    <!---->
+    <ProjectInformation>
+        <ProjectName>Bizzins_Web</ProjectName>
+        <ProjectVersion>2.0</ProjectVersion>
+        <ServerInfo ServerID="-1"></ServerInfo>
+        <S-DriveURL></S-DriveURL>
+    </ProjectInformation>
+    <!---->
+    <ProjectTreeFirstLevel>
+        <Node Type="2" LinkName="">./css/</Node>
+        <Node Type="2" LinkName="">./img/</Node>
+        <Node Type="2" LinkName="">./php/</Node>
+        <Node Type="2" LinkName="">./vendor/</Node>
+        <Node Type="2" LinkName="">./video/</Node>
+        <Node Type="5" LinkName="">./index-corporate-7.html</Node>
+        <Node Type="5" LinkName="">./index.html</Node>
+        <Node Type="5" LinkName="">./index_tmp.html</Node>
+    </ProjectTreeFirstLevel>
+    <!---->
+    <ShowedFiles>
+        <ShowedFileEditor1 FirstVisibleLine="55" CursorPosition="2329">./index-corporate-7.html</ShowedFileEditor1>
+    </ShowedFiles>
+    <!---->
+</WebEditorProject>
